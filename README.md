@@ -1,5 +1,5 @@
 
-# Hello World, I'm Turgutalp!  👋
+# Hello World, I'm Turgutalp! 🤘🏻
 
 ## 🚀 About Me
 I am a Backend Engineer with a strong focus on the fintech ecosystem. My experience spans across various domains within fintech, including investment, credit, BNPL, digital banking, commodities, and cryptocurrencies. I have a proven track record of developing and integrating financial solutions that cater to the evolving needs of the digital finance world. My expertise lies in leveraging cutting-edge technologies to create innovative and secure financial products that drive efficiency and enhance user experience. I am passionate about exploring new trends in fintech and contributing to the development of the next generation of financial services.
