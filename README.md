@@ -6,7 +6,7 @@ I am a Backend Engineer with a strong focus on the fintech ecosystem. My experie
 
 ## 🛠️ Skills
 - **Languages:** Java, JavaScript, Go
-- **Frameworks:** Spring Boot, NestJS, .NET
+- **Frameworks:** Spring Boot, NestJS
 - **Tools/Utils:** Redis, RabbitMQ, Apache Kafka, Elasticsearch, Docker, JUnit, Mocha, NUnit, AWS, MongoDB, Grafana (Loki), MySQL, Postgres
 
 
